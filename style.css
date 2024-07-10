@@ -1,0 +1,8 @@
+h1{text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    color: rgb(0, 0, 0);
+    flood-color: black;
+    text-emphasis-color: rgb(255, 0, 106);
+    background-image: url(images/back.jfif)
+}
